@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-30T14:03:24 ART" name="Surefire suite" finished-at="2023-03-30T14:04:03 ART" duration-ms="39533">
+    <groups>
+    </groups>
+    <test started-at="2023-03-30T14:03:24 ART" name="Surefire test" finished-at="2023-03-30T14:04:03 ART" duration-ms="39533">
+      <class name="tests.Tests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.Tests@2f8dad04]" started-at="2023-03-30T14:03:24 ART" name="setUp" finished-at="2023-03-30T14:03:30 ART" duration-ms="6504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="PruebaCuatro()[pri:0, instance:tests.Tests@2f8dad04]" started-at="2023-03-30T14:03:30 ART" name="PruebaCuatro" finished-at="2023-03-30T14:03:32 ART" duration-ms="1872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PruebaCuatro -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.Tests@2f8dad04]" started-at="2023-03-30T14:03:32 ART" name="tearDown" finished-at="2023-03-30T14:03:33 ART" duration-ms="211" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=PruebaCuatro status=SUCCESS method=Tests.PruebaCuatro()[pri:0, instance:tests.Tests@2f8dad04] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.Tests@2f8dad04]" started-at="2023-03-30T14:03:33 ART" name="setUp" finished-at="2023-03-30T14:03:37 ART" duration-ms="4174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="PruebaDos()[pri:0, instance:tests.Tests@2f8dad04]" started-at="2023-03-30T14:03:37 ART" name="PruebaDos" finished-at="2023-03-30T14:03:41 ART" duration-ms="4225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PruebaDos -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.Tests@2f8dad04]" started-at="2023-03-30T14:03:41 ART" name="tearDown" finished-at="2023-03-30T14:03:41 ART" duration-ms="450" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=PruebaDos status=SUCCESS method=Tests.PruebaDos()[pri:0, instance:tests.Tests@2f8dad04] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.Tests@2f8dad04]" started-at="2023-03-30T14:03:41 ART" name="setUp" finished-at="2023-03-30T14:03:45 ART" duration-ms="3988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="PruebaTres()[pri:0, instance:tests.Tests@2f8dad04]" started-at="2023-03-30T14:03:45 ART" name="PruebaTres" finished-at="2023-03-30T14:03:54 ART" duration-ms="8393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PruebaTres -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.Tests@2f8dad04]" started-at="2023-03-30T14:03:54 ART" name="tearDown" finished-at="2023-03-30T14:03:54 ART" duration-ms="508" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=PruebaTres status=SUCCESS method=Tests.PruebaTres()[pri:0, instance:tests.Tests@2f8dad04] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.Tests@2f8dad04]" started-at="2023-03-30T14:03:54 ART" name="setUp" finished-at="2023-03-30T14:03:58 ART" duration-ms="4085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="PruebaUno()[pri:0, instance:tests.Tests@2f8dad04]" started-at="2023-03-30T14:03:58 ART" name="PruebaUno" finished-at="2023-03-30T14:04:03 ART" duration-ms="4770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PruebaUno -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.Tests@2f8dad04]" started-at="2023-03-30T14:04:03 ART" name="tearDown" finished-at="2023-03-30T14:04:03 ART" duration-ms="243" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=PruebaUno status=SUCCESS method=Tests.PruebaUno()[pri:0, instance:tests.Tests@2f8dad04] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.Tests -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
